@@ -6,12 +6,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matmgv@gmail.com)](mailto:matmgv@gmail.com)
 
 ## Hi there 👋
-Hello, my name is Matheus Viana and I am currently studying Systems Analysis and Development (ADS). I am passionate about software development and look forward to collaborating on challenging projects.
+Hello, my name is Matheus Martins and I currently work as an intern in full stack development and also a Systems Analysis and Development (ADS) course. I am passionate about the development area and hope to collaborate on challenging projects.
 
 ## 👨🏻‍💻 About me 
 
-- 🔭 Currently I intend to start a position as an intern and show my full potential!
-- 🌱 I’m currently learning Haskell and other functional languages
 - ✈ I love participating in technology and innovation events
 - ⚡ A man who was once a very radical boy in life
 - 🎓 I like to validate my questions
