@@ -12,6 +12,7 @@ Hello, my name is Matheus Martins and I currently work as an intern in full stac
 
 - ✈ I love participating in technology and innovation events
 - ⚡ A man who was once a very radical boy in life
+- 💼 Intern at the company @GDezGestao
 - 🎓 I like to validate my questions
 - 👨‍🎓 Student at @senacsc
 
