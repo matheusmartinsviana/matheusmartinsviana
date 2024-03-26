@@ -9,19 +9,16 @@
 Hello, my name is Matheus Martins and I currently work as an intern in full stack development and also a Systems Analysis and Development (ADS) course. I am passionate about the development area and hope to collaborate on challenging projects.
 
 ## 👨🏻‍💻 About me 
-
 - ✈ I love participating in technology and innovation events
-- ⚡ A man who was once a very radical boy in life
 - 💼 Intern at the company @GDezGestao
 - 🎓 I like to validate my questions
 - 👨‍🎓 Student at @senacsc
 
 ## 🛠 Technologies under study 
-
-- 💻 C | C++ | Java |
-- 🌐 HTML | CSS | JavaScript | NodeJS 
-- 🛢 MySQL 
+- 🌐 HTML | CSS | JavaScript | NodeJS | React
+- 💻 C | C++ | Java
+- 🛢 MySQL | MongoDB
 - 🔧 Visual Studio Code | Git <br>
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,mysql,react,js,html,css,c)](https://skillicons.dev) <br>
-[![matheuv's github stats](https://github-readme-stats.vercel.app/api?username=matheusmartinsviana&show_icons=true&hide=["contribs","issues"])](https://github.com/matheusmartinsviana)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,mysql,react,js,html,css,cpp)](https://skillicons.dev) <br>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmartinsviana&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinsviana&show_icons=true)](https://github.com/KaduFloresta/github-readme-stats)
