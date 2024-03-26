@@ -15,10 +15,10 @@ Hello, my name is Matheus. I am a full stack development intern and also a syste
 - 👨‍🎓 Student at @senacsc
 
 ## 🛠 Technologies under study 
-- 🌐 HTML | CSS | JavaScript | NodeJS | React
 - 💻 C | C++ | Java
 - 🛢 MySQL | MongoDB
 - 🔧 Visual Studio Code | Git
+- 🌐 HTML | CSS | JavaScript | NodeJS | React
 <br>
 <div>
   <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,react,js,html,css,cpp" alt="languages">
