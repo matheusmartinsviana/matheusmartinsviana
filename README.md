@@ -9,15 +9,15 @@
 I am a full stack development intern and also a systems analysis and development student. And I also develop some front-end projects
 
 ## 👨🏻‍💻 About me 
-✈ I love participating in technology and innovation events
-💼 Intern at the company @GDezGestao
-🎓 I like to validate my questions
-👨‍🎓 Student at @senacsc
+✈ I love participating in technology and innovation events <br>
+💼 Intern at the company @GDezGestao <br>
+🎓 I like to validate my questions <br>
+👨‍🎓 Student at @senacsc 
 
 ## 🛠 Technologies under study 
-💻 C | C++ | Java
-🛢 MySQL | MongoDB
-🔧 Visual Studio Code | Git
+💻 C | C++ | Java <br>
+🛢 MySQL | MongoDB <br> 
+🔧 Visual Studio Code | Git <br>
 🌐 HTML | CSS | JavaScript | NodeJS | React
 <br>
 <div>
