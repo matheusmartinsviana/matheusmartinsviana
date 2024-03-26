@@ -5,7 +5,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+47+996570396&text=Hi!)](https://api.whatsapp.com/send?phone=55+47+996570396&text=Hi!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matmgv@gmail.com)](mailto:matheusmartinsdesenvolvedor@gmail.com)
 
-## Hi there 👋
+## Welcome to my Github 
 Hello, my name is Matheus Martins and I currently work as an intern in full stack development and also a Systems Analysis and Development (ADS) course. I am passionate about the development area and hope to collaborate on challenging projects.
 
 ## 👨🏻‍💻 About me 
@@ -22,8 +22,9 @@ Hello, my name is Matheus Martins and I currently work as an intern in full stac
 - 🌐 HTML | CSS | JavaScript | NodeJS 
 - 🛢 MySQL 
 - 🔧 Visual Studio Code | Git
-  <div style="display: inline_block"><br
-  <img align="center" alt="java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <div style="display: inline_block"><br>
+   <img align="center" alt="java" width="30" src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)">
+   <img align="center" alt="java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
    <img align="center" alt="c" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="cplusplus" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="mysql" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
