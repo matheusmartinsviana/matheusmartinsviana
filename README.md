@@ -15,13 +15,13 @@ I am a full stack development intern and also a systems analysis and development
 👨‍🎓 Student at @senacsc 
 
 ## 🛠 Technologies under study 
-💻 C | C++ | Java <br>
 🛢 MySQL | MongoDB <br> 
+💻 C | C++ | Java | Nodejs<br>
 🔧 Visual Studio Code | Git <br>
-🌐 HTML | CSS | JavaScript | NodeJS | React
+🌐 HTML | CSS | JavaScript | NodeJS | React | SASS
 <br>
 <div>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,react,js,html,css,cpp" alt="languages">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,react,js,html,css,cpp,sass" alt="languages">
 </div>
 <br>
 
