@@ -21,7 +21,7 @@ Hello, my name is Matheus Martins and I currently work as an intern in full stac
 - 💻 C | C++ | Java |
 - 🌐 HTML | CSS | JavaScript | NodeJS 
 - 🛢 MySQL 
-- 🔧 Visual Studio Code | Git
+- 🔧 Visual Studio Code | Git<br>
 [![My Back-end Skills](https://skillicons.dev/icons?i=java,nodejs,mysql,c)](https://skillicons.dev) <br>
 [![My Front-end Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev) <br>
 [![matheuv's github stats](https://github-readme-stats.vercel.app/api?username=matheusmartinsviana&show_icons=true&hide=["contribs","issues"])](https://github.com/matheusmartinsviana)
