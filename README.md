@@ -19,7 +19,7 @@ Hello, my name is Matheus Martins and I currently work as an intern in full stac
 - 💻 C | C++ | Java
 - 🛢 MySQL | MongoDB
 - 🔧 Visual Studio Code | Git <br>
-<div style="padding: 10px 0 0 10px;">
+<div style="padding: 100px 0 0 10px;">
   <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,react,js,html,css,cpp" alt="languages">
 </div>
 
