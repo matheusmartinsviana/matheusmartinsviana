@@ -19,8 +19,9 @@ Hello, my name is Matheus Martins and I currently work as an intern in full stac
 - 💻 C | C++ | Java
 - 🛢 MySQL | MongoDB
 - 🔧 Visual Studio Code | Git <br>
-<div style="padding: "10px 10px"">
+<div style="padding: "10px 10px";">
   <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,react,js,html,css,cpp" alt="languages">
 </div>
+
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=matheusmartinsviana&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/matheusmartinsviana/github-readme-stats#gh-dark-mode-only) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinsviana&show_icons=true)](https://github.com/KaduFloresta/github-readme-stats)
