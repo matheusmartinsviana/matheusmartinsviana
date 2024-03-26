@@ -9,16 +9,16 @@
 I am a full stack development intern and also a systems analysis and development student. And I also develop some front-end projects
 
 ## 👨🏻‍💻 About me 
-- ✈ I love participating in technology and innovation events
-- 💼 Intern at the company @GDezGestao
-- 🎓 I like to validate my questions
-- 👨‍🎓 Student at @senacsc
+✈ I love participating in technology and innovation events
+💼 Intern at the company @GDezGestao
+🎓 I like to validate my questions
+👨‍🎓 Student at @senacsc
 
 ## 🛠 Technologies under study 
-- 💻 C | C++ | Java
-- 🛢 MySQL | MongoDB
-- 🔧 Visual Studio Code | Git
-- 🌐 HTML | CSS | JavaScript | NodeJS | React
+💻 C | C++ | Java
+🛢 MySQL | MongoDB
+🔧 Visual Studio Code | Git
+🌐 HTML | CSS | JavaScript | NodeJS | React
 <br>
 <div>
   <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,react,js,html,css,cpp" alt="languages">
@@ -26,4 +26,3 @@ I am a full stack development intern and also a systems analysis and development
 <br>
 
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=matheusmartinsviana&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/matheusmartinsviana/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinsviana&layout=compact)
