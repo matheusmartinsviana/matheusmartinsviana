@@ -22,7 +22,11 @@ Hello, my name is Matheus Martins and I currently work as an intern in full stac
 - 🌐 HTML | CSS | JavaScript | NodeJS 
 - 🛢 MySQL 
 - 🔧 Visual Studio Code | Git
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nodejs,java,c" />
+  </a>
+</p>
   <div style="display: inline_block"><br>
    <img align="center" alt="java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
    <img align="center" alt="c" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
