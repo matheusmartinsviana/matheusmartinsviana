@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matmgv@gmail.com)](mailto:matheusmartinsdesenvolvedor@gmail.com)
 
 ## Welcome to my Github 
-Hello, my name is Matheus Martins and I currently work as an intern in full stack development and also a Systems Analysis and Development (ADS) course. I am passionate about the development area and hope to collaborate on challenging projects.
+Hello, my name is Matheus. I am a full stack development intern and also a systems analysis and development student. And I also develop some front-end projects
 
 ## 👨🏻‍💻 About me 
 - ✈ I love participating in technology and innovation events
