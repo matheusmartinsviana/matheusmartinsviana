@@ -10,7 +10,7 @@ I am a full stack development intern and also a systems analysis and development
 
 ## 👨🏻‍💻 About me 
 ✈ I love participating in technology and innovation events <br>
-💼 Intern at the company @GDezGestao <br>
+💼 QA Analyst at @UltraLIMS <br>
 🎓 I like to validate my questions <br>
 👨‍🎓 Student at @senacsc 
 
