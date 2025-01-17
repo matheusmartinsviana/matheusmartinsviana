@@ -16,9 +16,9 @@ I am a full stack development intern and also a systems analysis and development
 
 ## 🛠 Technologies under study 
 🛢 MySQL | MongoDB <br> 
-💻 C | C++ | Java | Nodejs<br>
-🔧 Visual Studio Code | Git <br>
-🌐 HTML | CSS | JavaScript | NodeJS | React | SASS
+💻 C | C++ | Java | Nodejs | PHP <br>
+🔧 Visual Studio Code | Git | Ubuntu <br>
+🌐 HTML | CSS | JavaScript | Typescript | NodeJS | React | SASS 
 <br>
 <div>
   <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,react,js,html,css,cpp,sass" alt="languages">
