@@ -56,9 +56,19 @@ My name is Matheus Martins, I'm a QA at a laboratory software company, but my sp
 
 ## 🔍  Where to find me
 
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16)](https://stackoverflow.com/users/23561858/matheus)
+<a href="https://stackoverflow.com/users/23561858/matheus" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" 
+       alt="Stack Overflow logo" 
+       title="Stack Overflow" 
+       height="25">
+</a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/matheusmartinsviana/)
+<a href="https://www.linkedin.com/in/matheusmartinsviana/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" 
+       alt="LinkedIn logo" 
+       title="LinkedIn" 
+       height="25">
+</a>
 
 [tech_tools_anchor]: #olá--
 [learning_now_anchor]: #learning-now
