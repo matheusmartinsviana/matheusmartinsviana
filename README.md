@@ -1,6 +1,6 @@
 # Olá ! 👋
 
-My name is Matheus Martins, I'm a QA at a laboratory software company, but my specialty is frontend development. I work as a freelancer and I'm based near Joinville, Brazil. 
+I’m Matheus Martins, a QA Analyst at TOTVS who’s equally at home in frontend development and the full development lifecycle. When I’m not deep in testing, I take on freelance projects to keep things fresh. Based just outside Joinville, Brazil.
 
 ## 🛠  Technologies and tools
 
