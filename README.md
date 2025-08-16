@@ -1,6 +1,6 @@
 # Olá ! 👋
 
-I’m Matheus Martins, a QA Analyst at TOTVS who’s equally at home in frontend development and the full development lifecycle. When I’m not deep in testing, I take on freelance projects to keep things fresh. Based just outside Joinville, Brazil.
+I’m Matheus Martins, a QA Analyst at @totvs who’s equally at home in frontend development and the full development lifecycle. When I’m not deep in testing, I take on freelance projects to keep things fresh. Based just outside Joinville, Brazil.
 
 ## 🛠  Technologies and tools
 
@@ -40,19 +40,22 @@ I’m Matheus Martins, a QA Analyst at TOTVS who’s equally at home in frontend
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+## 📖  What I am currently learning / improving on  
 
+[<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=F89820" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Software%20Testing-282C34?logo=testinglibrary&logoColor=E33332" alt="Software Testing logo" title="Software Testing" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/SonarQube-282C34?logo=sonarqube&logoColor=4E9BCD" alt="SonarQube logo" title="SonarQube" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 
-## 👾  What I am interested in learning at some point
+## 👾  What I am interested in learning at some point  
 
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" alt="Go logo" title="Go (Golang)" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=Dart&color=282C34&logo=dart&logoColor=5bd1d7" alt="Dart logo" title="Dart" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 
 ## 🔍  Where to find me
 
